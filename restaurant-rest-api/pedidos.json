@@ -1,0 +1,21 @@
+[
+  {
+    "id": "5447782855",
+    "mesa": "5",
+    "total": 15.5,
+    "status": "PREPARANDO",
+    "itensPedido": [
+      {
+        "produto": {
+          "id": 1000,
+          "nome": "Ninho",
+          "imagem": "",
+          "preco": 5.0,
+          "descricao": "Din-din de ninho"
+        },
+        "quantidade": 1,
+        "observacoes": ""
+      }
+    ]
+  }
+]
